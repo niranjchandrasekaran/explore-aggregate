@@ -19,4 +19,4 @@ dependencies:
 - conda-forge::sqlite=3.33.0
 - pip
 - pip:
-  - git+https://github.com/niranjchandrasekaran/pycytominer@42e3e73fe1c8c2d0aa0cf69409195587c2f87f6c
+  - git+https://github.com/niranjchandrasekaran/pycytominer@388bc35cdc044da8f2bdcbd8edbfa2bf66cf1198
